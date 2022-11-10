@@ -1,0 +1,1 @@
+let mascota = 'gato';
